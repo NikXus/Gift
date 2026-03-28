@@ -1,0 +1,12 @@
+{
+  "name": "websiteee",
+  "version": "1.0.0",
+  "main": "Han.js",
+  "scripts": {
+    "start": "node Han.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
